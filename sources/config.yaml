@@ -1,5 +1,5 @@
 buildVariable: false
 removeOutlineOverlaps: false
-noProductionNames: true
+productionNames: false
 sources:
   - NovaSquare.glyphs
